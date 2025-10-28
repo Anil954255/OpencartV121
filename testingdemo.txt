@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //This is sample file
 //created for testing purpose
 //This is sample file
 //created for testing purpose
+=======
+created for testing purpose
+changed file name and recommited
+>>>>>>> 62029983b9afe5664a0e66382ed56c11eee97a2a
+Thank you
