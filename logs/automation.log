@@ -20,3 +20,27 @@
 22:18:33.549 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest  *****
 22:18:44.140 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC002_LoginTest  *******
 22:18:52.469 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest  *******
+14:44:35.931 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest  *****
+14:44:36.863 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaacount link..
+14:44:38.314 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+14:44:38.344 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+14:44:41.926 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:44:42.208 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest  *****
+14:44:55.248 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC002_LoginTest  *******
+14:44:58.753 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest  *******
+15:22:23.939 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest  *****
+15:22:24.278 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaacount link..
+15:22:25.199 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:22:25.216 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+15:22:27.275 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:22:27.349 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest  *****
+15:22:48.895 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC002_LoginTest  *******
+15:22:51.182 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest  *******
+16:26:23.029 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest  *****
+16:26:29.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaacount link..
+16:26:30.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+16:26:30.655 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+16:26:33.115 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:26:33.168 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest  *****
+16:26:45.550 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC002_LoginTest  *******
+16:26:51.856 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest  *******
